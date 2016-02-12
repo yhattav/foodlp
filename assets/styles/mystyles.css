@@ -1,0 +1,11 @@
+.mainpage {
+    background-image: url('../images/lines.png');
+    color: blue;
+    width: 100%;
+    height:100%;
+   
+    
+}
+body {
+    height: 100%;
+}
